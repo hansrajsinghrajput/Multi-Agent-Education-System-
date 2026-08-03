@@ -126,16 +126,8 @@ Output: Detailed structured explanation
 
 ---
 
-## Team Members
 
-| No. | Name | Enrollment No |
-|-----|------|--------------|
-| 1 | JAYENDRA VERMA | EN22IT301043 |
-| 2 | HANSRAJ SINGH RAJPUT | EN24CA5030055 |
-| 3 | ASHISH NAGDA | EN24CA5030026 |
-| 4 | NAMAN SHARMA | EN22IT301058 |
-| 5 | ATUL MANDLOI | EN24CA5030031 |
-| 6 | HITENDRA SAMEDIYA | EN24CA5030067 |
+ | HANSRAJ SINGH RAJPUT | EN24CA5030055 |
 
 ---
 
@@ -145,7 +137,7 @@ Agentic AI
 ---
 
 ## GitHub Repository
-https://github.com/Matrixuse/Education_System.git
+https://github.com/hansrajsinghrajput/Multi-Agent-Education-System-
 
 ---
 
